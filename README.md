@@ -1,8 +1,8 @@
 # MyFirstProject
 First Project on Github
 
-##Functie
+Functie
 knoppen op de website om naar andere dingen toe te gaan Zoals contact, Overmij
 
-##Author
+Author
 187951
